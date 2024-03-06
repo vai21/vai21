@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Faisal. I have undergraduate degree in computer science, at Bina Nusantara University, Indonesia.
+- 👋 Hi, I’m Faisal. I have Bachelor degree in computer science (B.Sc) at Bina Nusantara University, Indonesia.
 - 👀 I’m interested in programming with javascript, nodejs, python, java. Mostly I am doing backend things with express.js, nest.js, springboot, django or flask. Now I am learning frontend too.
-- 🌱 I’m currently learning reactjs and next js.
+- 🌱 I’m currently learning and working with reactjs and next js for frontend.
 - 💞️ I’m looking to collaborate on AI project or any other website projects.
 - 📫 How to reach me plesae message me in this email faisalrasid@gmail.com
 
